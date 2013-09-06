@@ -6,7 +6,7 @@
 	<string>de.timo-lemburg.LocalAdminExpiration</string>
 	<key>ProgramArguments</key>
 	<array>
-		<string>/usr/local/tl/localadmin/expiration_check.sh</string>
+		<string>/usr/local/tl/LocalAdmin/ExpirationCheck.sh</string>
 	</array>
 	<key>StartInterval</key>
 	<integer>3600</integer>
